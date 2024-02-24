@@ -3,7 +3,7 @@ public class Main5 {
         System.out.println("Hello world");
          System.out.println("Hello");
          int sum=8;
-         System.out.println(sum);
+         System.out.println(sum+7);
          
 
     }
